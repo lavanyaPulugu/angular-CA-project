@@ -1,0 +1,27 @@
+.chooseme {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
+
+  background-color: rgb(241, 247, 245);
+  text-align: center;
+}
+
+.heading {
+  font-weight: 900;
+}
+.col{
+  height: 250px;
+  width: 250px;
+  background-color: white;
+  border-radius: 25px;
+  text-align: start;
+  padding-top: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+i{
+  color: blue;
+
+}

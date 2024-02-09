@@ -1,0 +1,23 @@
+.services{
+  margin: 0;
+  padding: 0;
+position: relative;
+  width: 100%;
+
+  background-color: rgb(241, 247, 245);
+  text-align: center;
+}
+.heading{
+  font-weight: 900;
+}
+img{
+  height: 300px;
+  width: 500px;
+}
+.coltext{
+  text-align: justify;
+}
+hr{
+  margin: 0;
+  padding: 0;
+}

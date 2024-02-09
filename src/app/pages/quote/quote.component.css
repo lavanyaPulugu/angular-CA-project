@@ -1,0 +1,18 @@
+.mainDiv {
+  width: 100%;
+height: auto;
+  padding: 0;
+  margin: 0;
+  background-color: black;
+  position: relative;
+}
+
+img {
+  width: 100%;
+height: auto;
+}
+.subDiv {
+  position: absolute;
+  top: 20%;
+right:50%;
+}
